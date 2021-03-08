@@ -1,0 +1,175 @@
+body{
+  text-align: center;
+}
+#top{
+  background-color:#2c3e50;
+  padding: 4rem;
+}
+.nb{
+  background-image: -webkit-linear-gradient(Yellow,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Passion One', cursive;
+  font-size: 2rem;
+  margin-left:3.225rem;
+}
+.nbar{
+  margin-bottom: 6.25rem;
+}
+.ml{
+  margin-left: 35.5rem;
+}
+.nl{
+  display: inline;
+  font-family: 'Mada', sans-serif;
+  font-weight: bold;
+  color:#2980b9;
+  font-size: 1rem;
+  margin-left: 0.625rem;
+}
+.speed{
+  height:15rem;
+  width: 15rem;
+  position:relative;
+  margin-left:13rem;
+  margin-top: 5rem;
+  margin-bottom: 6rem;
+}
+.speed:hover{
+  transform: rotate(50deg);
+}
+
+
+
+/* 950px */
+@media (max-width: 950px){
+  body{
+    text-align: center;
+  }
+  .moto{
+    font-family: 'Fredoka One', cursive;
+    position: relative;
+    padding-bottom: 3rem;
+    margin-left:2.5rem;
+    margin-right:2.5rem;
+    font-size: 15%;
+    color: Maroon;
+  }
+  .speed{
+  height:10rem;
+  width: 10rem;
+  position:relative;
+  margin-left: 5rem;
+  margin-right: 3rem;
+}
+.speed:hover{
+  transform: rotate(180deg);
+}
+#navbarSupportedContent{
+  font-family: 'Fira Sans Condensed', sans-serif;
+  color: Crimson;
+  font-weight: bold;
+  padding-bottom:2rem;
+  margin-left: 0.375rem;
+    margin-top: 0.625rem;
+}
+.ml{
+  margin-top:3rem;
+  margin-left: 1rem;
+}
+.nl{
+  margin:auto;
+}
+.nb{
+  background-image: -webkit-linear-gradient(chocolate,brown);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+font-family: 'Passion One', cursive;
+  font-size: 1.3rem;
+  margin-left:0.5rem;
+}
+.navbar-light .navbar-toggler-icon{
+  height:1.25rem;
+  width:1.25rem;
+  margin-right: auto;
+}
+.d-btn{
+  display: inline;
+}
+.card{
+  height:24rem;
+  width:20rem;
+  margin:0;
+}
+#pricing{
+  padding-left:3.5rem;
+}
+.ci{
+  margin: 1.25rem 1.8rem;
+}
+}
+
+
+
+.moto{
+font-family: 'Passion One', cursive;
+  position: relative;
+  margin-left:4rem;
+  margin-top:10rem;
+  font-size: 3rem;
+  color:#2ecc71;
+}
+.d-btn{
+  margin-left:2rem;
+}
+#features{
+  text-align: center;
+  padding:7rem;
+}
+.fas{
+  padding: 1rem;
+}
+.fh{
+  color:#16a085;
+}
+.fd{
+  font-size: 1rem;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #7f8c8d;
+}
+.fas:hover{
+  color:#34495e;
+  transform:scale(1.5);
+}
+#pricing{
+  padding:6.25rem;
+  text-align:center;
+  background-color: #dfe6e9;
+}
+.ob{
+  margin: 0;
+}
+#contact{
+  text-align: center;
+  padding:6.25rem;
+  background-color: #95afc0;
+}
+.ci{
+  margin: 0.625rem 1.25rem;
+  color: black;
+}
+.ci:hover{
+  transform: scale(1.5);
+  color: #686de0;
+}
+.c{
+  margin-top:2rem;
+  font-size: 1rem;
+  color: lightgray;
+}
+
+.js{
+
+transform: rotate(90deg);
+
+}
